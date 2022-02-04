@@ -334,7 +334,9 @@ def main(dataset_name):
 		list_of_times = []
     
 	#try:
+		###### 1 - código para ejecutar auto-sklearn y extraer sus 121 pipelines 
 		missing_values = ["n/a", "na", "--", "?"]
+		###### cambiar dirección dependiendo de donde esté el dataset
 		df = pd.read_csv('/home/amasegosa/binary_classification_datasets/{}.csv'.format(dataset), na_values = missing_values)
 		x_cols = [c for c in df.columns if c != 'class']
 		X = df[x_cols]
@@ -343,23 +345,28 @@ def main(dataset_name):
 		XX = pd.get_dummies(X, prefix_sep='_', drop_first=True)
 
 
+		###### repeticiones
 		for repetition in range(1,2):
 
 			X_train, X_test, y_train, y_test = sklearn.model_selection.train_test_split(XX, y, random_state=1)
 
+			###### 1 - inicializar auto-sklearn después de haber cargado los datos
+			###### 1 - ejecutar auto-sklearn con muy poco tiempo para (solo) cargar todos los pipelines almacenados en su componente de meta-learning (121)
 			automl = autosklearn.classification.AutoSklearnClassifier(
 			time_left_for_this_task=60,
 			per_run_time_limit=30,
 			ml_memory_limit = 500000,
 			delete_tmp_folder_after_terminate=True,
-			initial_configurations_via_metalearning=121)
+			initial_configurations_via_metalearning=121) 
 
 			automl.fit(X_train, y_train)
 
+			###### 2- método implementando para seleccionar los 121 pipelines
 			MetalearningSuggestions = automl.MetalearningSuggestions_extractor()
 
 			suggestions = []
 
+			###### 3 - tomar cada pipeline y convertirlo en un diccionario que luego se transforma en un objeto pipeline de sklearn
 			for i in MetalearningSuggestions:
 				pipeline = i.get_dictionary()
 				suggestions.append(pipeline)
