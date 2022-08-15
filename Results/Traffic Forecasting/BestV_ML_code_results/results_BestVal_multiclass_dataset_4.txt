@@ -1,0 +1,95 @@
+[WARNING] [2020-06-06 19:45:41,385:EnsembleBuilder(1):bb87b89a4707e2c0576a8bcc86c98b55] No models better than random - using Dummy Score!
+[WARNING] [2020-06-06 19:45:41,394:EnsembleBuilder(1):bb87b89a4707e2c0576a8bcc86c98b55] No models better than random - using Dummy Score!
+[WARNING] [2020-06-06 19:45:43,397:EnsembleBuilder(1):bb87b89a4707e2c0576a8bcc86c98b55] No models better than random - using Dummy Score!
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+#########################
+Best pipelines in dataset4
+[(28, 0.11351642825314459, 0.4325713787708482, 0.4300729341875504), (28, 0.11260762486507239, 0.4220209222017749, 0.42153610736599545), (28, 0.11260762486507239, 0.4220209222017749, 0.4053364484754551), (28, 0.1125687220481622, 0.407337293602699, 0.5109909702058334), (28, 0.1125687220481622, 0.407337293602699, 0.43016558561783064), (28, 0.1125687220481622, 0.407337293602699, 0.5335064479873195), (28, 0.1125687220481622, 0.407337293602699, 0.37311448082660537), (28, 0.1146762709910747, 0.39395689603811995, 0.41389466005949693), (28, 0.1146762709910747, 0.39395689603811995, 0.42483374635205623), (28, 0.1146762709910747, 0.39395689603811995, 0.44444947900916215)]
+[(16175.191629648209, 'dataset4')]
+[[(28, 0.11351642825314459, 0.4325713787708482, 0.4300729341875504), (28, 0.11260762486507239, 0.4220209222017749, 0.42153610736599545), (28, 0.11260762486507239, 0.4220209222017749, 0.4053364484754551), (28, 0.1125687220481622, 0.407337293602699, 0.5109909702058334), (28, 0.1125687220481622, 0.407337293602699, 0.43016558561783064), (28, 0.1125687220481622, 0.407337293602699, 0.5335064479873195), (28, 0.1125687220481622, 0.407337293602699, 0.37311448082660537), (28, 0.1146762709910747, 0.39395689603811995, 0.41389466005949693), (28, 0.1146762709910747, 0.39395689603811995, 0.42483374635205623), (28, 0.1146762709910747, 0.39395689603811995, 0.44444947900916215)]]

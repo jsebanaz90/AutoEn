@@ -1,0 +1,98 @@
+[WARNING] [2020-06-06 19:07:23,271:EnsembleBuilder(1):7e6e3cc65f1c4ade59e4d4425df8344f] No models better than random - using Dummy Score!
+[WARNING] [2020-06-06 19:07:23,277:EnsembleBuilder(1):7e6e3cc65f1c4ade59e4d4425df8344f] No models better than random - using Dummy Score!
+[WARNING] [2020-06-06 19:07:25,281:EnsembleBuilder(1):7e6e3cc65f1c4ade59e4d4425df8344f] No models better than random - using Dummy Score!
+[WARNING] [2020-06-06 19:08:51,147:EnsembleBuilder(1):7e6e3cc65f1c4ade59e4d4425df8344f] Memory Exception -- restart with less ensemle_nbest: 25
+[WARNING] [2020-06-06 19:08:51,204:EnsembleBuilder(1):7e6e3cc65f1c4ade59e4d4425df8344f] Memory Exception -- restart with less ensemle_nbest: 12
+[WARNING] [2020-06-06 19:08:51,258:EnsembleBuilder(1):7e6e3cc65f1c4ade59e4d4425df8344f] Memory Exception -- restart with less ensemle_nbest: 6
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+#########################
+Best pipelines in dataset1
+[(102, 0.17863520249905238, 0.22766693766434795, 0.22658321354868852), (102, 0.17863520249905238, 0.22766693766434795, 0.21230646749307044), (102, 0.17947760218943523, 0.2203286237187205, 0.2383847730565976), (102, 0.17905907677345678, 0.2155707111510906, 0.2255466507499729), (102, 0.17905907677345678, 0.2155707111510906, 0.2677938617995035), (102, 0.17905907677345678, 0.2155707111510906, 0.23240925239442592), (78, 0.06213879231292635, 0.19131970920381192, 0.21677622141646255), (78, 0.06213879231292635, 0.19131970920381192, 0.2817342327844135), (78, 0.06213879231292635, 0.19131970920381192, 0.2566256294889666), (78, 0.06213879231292635, 0.19131970920381192, 0.27849151784221904)]
+[(14417.950600624084, 'dataset1')]
+[[(102, 0.17863520249905238, 0.22766693766434795, 0.22658321354868852), (102, 0.17863520249905238, 0.22766693766434795, 0.21230646749307044), (102, 0.17947760218943523, 0.2203286237187205, 0.2383847730565976), (102, 0.17905907677345678, 0.2155707111510906, 0.2255466507499729), (102, 0.17905907677345678, 0.2155707111510906, 0.2677938617995035), (102, 0.17905907677345678, 0.2155707111510906, 0.23240925239442592), (78, 0.06213879231292635, 0.19131970920381192, 0.21677622141646255), (78, 0.06213879231292635, 0.19131970920381192, 0.2817342327844135), (78, 0.06213879231292635, 0.19131970920381192, 0.2566256294889666), (78, 0.06213879231292635, 0.19131970920381192, 0.27849151784221904)]]

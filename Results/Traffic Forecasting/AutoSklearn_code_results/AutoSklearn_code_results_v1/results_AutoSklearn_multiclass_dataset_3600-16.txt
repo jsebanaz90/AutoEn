@@ -1,0 +1,377 @@
+[WARNING] [2020-06-05 02:30:50,472:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 02:30:50,484:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 02:30:52,487:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 02:30:54,491:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 02:30:56,494:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 02:30:58,497:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 02:31:00,500:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 02:31:02,503:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 02:43:35,658:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Memory Exception -- restart with less ensemle_nbest: 25
+[WARNING] [2020-06-05 02:43:35,762:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Memory Exception -- restart with less ensemle_nbest: 12
+[WARNING] [2020-06-05 03:13:13,281:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Memory Exception -- restart with less ensemle_nbest: 6
+[WARNING] [2020-06-05 03:13:13,449:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_31.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,462:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_26.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,466:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_25.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,470:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_24.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,475:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_23.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,479:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_22.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,483:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_21.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,487:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_20.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,492:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_19.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,496:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_18.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,500:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_17.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,505:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_16.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,509:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_15.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,514:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_14.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,518:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_12.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,522:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_11.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,526:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_10.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,530:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_9.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,534:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_8.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,538:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_7.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,541:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_6.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,547:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_5.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,552:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_4.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,558:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_3.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,564:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_2.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:13,569:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_1.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,598:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Memory Exception -- restart with less ensemle_nbest: 3
+[WARNING] [2020-06-05 03:13:14,703:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_31.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,716:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_26.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,720:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_25.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,725:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_24.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,729:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_23.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,734:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_22.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,739:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_21.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,743:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_20.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,748:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_19.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,752:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_18.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,757:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_17.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,761:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_16.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,765:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_15.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,770:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_14.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,775:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_12.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,779:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_11.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,784:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_10.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,788:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_9.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,793:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_8.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,797:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_7.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,802:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_6.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,807:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_5.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,811:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_4.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,816:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_3.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,820:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_2.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+[WARNING] [2020-06-05 03:13:14,825:EnsembleBuilder(1):8c462613bab28ddbae65af9f87727519] Error loading /tmp/autosklearn_tmp_16687_1683/.auto-sklearn/predictions_ensemble/predictions_ensemble_1_1.npy: Traceback (most recent call last):
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/ensemble_builder.py", line 323, in read_ensemble_preds
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 306, in calculate_score
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/autosklearn/metrics/__init__.py", line 97, in __call__
+  File "/home/amasegosa/.conda/envs/snakes/lib/python3.5/site-packages/sklearn/metrics/classification.py", line 2174, in log_loss
+MemoryError
+
+Log_loss score 0.42149135176110086

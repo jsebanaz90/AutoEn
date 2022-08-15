@@ -1,0 +1,13 @@
+[WARNING] [2020-06-07 07:28:47,305:EnsembleBuilder(1):4a68f4fe4877af9a3ce24d9a9668512e] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 07:28:47,331:EnsembleBuilder(1):4a68f4fe4877af9a3ce24d9a9668512e] Memory Exception -- restart with less ensemle_nbest: 25
+[WARNING] [2020-06-07 07:28:47,360:EnsembleBuilder(1):4a68f4fe4877af9a3ce24d9a9668512e] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 07:28:47,386:EnsembleBuilder(1):4a68f4fe4877af9a3ce24d9a9668512e] Memory Exception -- restart with less ensemle_nbest: 12
+[WARNING] [2020-06-07 07:28:47,415:EnsembleBuilder(1):4a68f4fe4877af9a3ce24d9a9668512e] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 07:28:47,442:EnsembleBuilder(1):4a68f4fe4877af9a3ce24d9a9668512e] Memory Exception -- restart with less ensemle_nbest: 6
+[WARNING] [2020-06-07 07:28:47,471:EnsembleBuilder(1):4a68f4fe4877af9a3ce24d9a9668512e] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 07:28:47,497:EnsembleBuilder(1):4a68f4fe4877af9a3ce24d9a9668512e] Memory Exception -- restart with less ensemle_nbest: 3
+[WARNING] [2020-06-07 07:28:47,525:EnsembleBuilder(1):4a68f4fe4877af9a3ce24d9a9668512e] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 07:28:47,551:EnsembleBuilder(1):4a68f4fe4877af9a3ce24d9a9668512e] Memory Exception -- restart with less ensemle_nbest: 1
+[WARNING] [2020-06-07 07:28:47,580:EnsembleBuilder(1):4a68f4fe4877af9a3ce24d9a9668512e] No models better than random - using Dummy Score!
+[CRITICAL] [2020-06-07 07:28:47,607:EnsembleBuilder(1):4a68f4fe4877af9a3ce24d9a9668512e] Memory Exception -- Unable to escape from memory exception
+Log_loss score 0.345822990190119

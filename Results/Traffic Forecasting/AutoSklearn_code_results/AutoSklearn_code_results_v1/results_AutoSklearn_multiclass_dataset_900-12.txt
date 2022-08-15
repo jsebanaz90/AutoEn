@@ -1,0 +1,8 @@
+[WARNING] [2020-06-05 01:26:34,714:EnsembleBuilder(1):347597ea9b56859bdb15d0cd5d7ce19f] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:26:34,725:EnsembleBuilder(1):347597ea9b56859bdb15d0cd5d7ce19f] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:26:36,729:EnsembleBuilder(1):347597ea9b56859bdb15d0cd5d7ce19f] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:26:38,733:EnsembleBuilder(1):347597ea9b56859bdb15d0cd5d7ce19f] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:26:40,736:EnsembleBuilder(1):347597ea9b56859bdb15d0cd5d7ce19f] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:26:42,739:EnsembleBuilder(1):347597ea9b56859bdb15d0cd5d7ce19f] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:26:44,742:EnsembleBuilder(1):347597ea9b56859bdb15d0cd5d7ce19f] No models better than random - using Dummy Score!
+Log_loss score 0.5048690371448796

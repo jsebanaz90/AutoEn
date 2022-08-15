@@ -1,0 +1,79 @@
+[WARNING] [2020-06-06 21:30:10,924:EnsembleBuilder(1):5a8f659957fdfe66853f210ee2a04462] No models better than random - using Dummy Score!
+[WARNING] [2020-06-06 21:30:10,933:EnsembleBuilder(1):5a8f659957fdfe66853f210ee2a04462] No models better than random - using Dummy Score!
+[WARNING] [2020-06-06 21:30:12,937:EnsembleBuilder(1):5a8f659957fdfe66853f210ee2a04462] No models better than random - using Dummy Score!
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+#########################
+Best pipelines in dataset7
+[(59, 0.16151313214941673, 0.23342935019365835, 0.20162831067000317), (87, 0.038588645247841696, 0.16328427909985768, 0.18763922106590233), (36, 0.03666093685081599, 0.1566730442137505, 0.18221897781966157), (36, 0.03666093685081599, 0.1566730442137505, 0.1871453483693997), (36, 0.03666093685081599, 0.1566730442137505, 0.19911821045035877), (36, 0.03666093685081599, 0.1566730442137505, 0.19916307627478205), (36, 0.03666093685081599, 0.1566730442137505, 0.19624736086676892), (36, 0.03666093685081599, 0.1566730442137505, 0.1400862757094196), (36, 0.03666093685081599, 0.1566730442137505, 0.1861719907934196), (36, 0.03666093685081599, 0.1566730442137505, 0.1914403516271678)]
+[(22106.30523085594, 'dataset7')]
+[[(59, 0.16151313214941673, 0.23342935019365835, 0.20162831067000317), (87, 0.038588645247841696, 0.16328427909985768, 0.18763922106590233), (36, 0.03666093685081599, 0.1566730442137505, 0.18221897781966157), (36, 0.03666093685081599, 0.1566730442137505, 0.1871453483693997), (36, 0.03666093685081599, 0.1566730442137505, 0.19911821045035877), (36, 0.03666093685081599, 0.1566730442137505, 0.19916307627478205), (36, 0.03666093685081599, 0.1566730442137505, 0.19624736086676892), (36, 0.03666093685081599, 0.1566730442137505, 0.1400862757094196), (36, 0.03666093685081599, 0.1566730442137505, 0.1861719907934196), (36, 0.03666093685081599, 0.1566730442137505, 0.1914403516271678)]]

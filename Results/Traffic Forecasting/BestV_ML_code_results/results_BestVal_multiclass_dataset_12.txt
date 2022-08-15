@@ -1,0 +1,64 @@
+[WARNING] [2020-06-07 00:17:46,317:EnsembleBuilder(1):dba71bb71196e86c0bf6a78807c52fc2] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 00:17:46,323:EnsembleBuilder(1):dba71bb71196e86c0bf6a78807c52fc2] No models better than random - using Dummy Score!
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+this pipe failed in test set
+this pipe failed in test set
+#########################
+Best pipelines in dataset12
+[(22, 0.27040158948992454, 0.5275419570145261, 0.5054469561169821), (22, 0.26882957245188277, 0.5195407203617063, 0.5496572848257938), (22, 0.2690992480950129, 0.5119300159329352, 0.5292727494627192), (22, 0.2705360463675069, 0.5012158138627066, 0.5352206362865324), (22, 0.2705360463675069, 0.5012158138627066, 0.5847797664699382), (22, 0.2705360463675069, 0.5012158138627066, 0.5817665703595425), (22, 0.2705360463675069, 0.5012158138627066, 0.4877632459124836), (22, 0.2705360463675069, 0.5012158138627066, 0.5834005816966644), (22, 0.2705360463675069, 0.5012158138627066, 0.5545105972726183), (22, 0.2705360463675069, 0.5012158138627066, 0.44740902002007393)]
+[(18754.546693086624, 'dataset12')]
+[[(22, 0.27040158948992454, 0.5275419570145261, 0.5054469561169821), (22, 0.26882957245188277, 0.5195407203617063, 0.5496572848257938), (22, 0.2690992480950129, 0.5119300159329352, 0.5292727494627192), (22, 0.2705360463675069, 0.5012158138627066, 0.5352206362865324), (22, 0.2705360463675069, 0.5012158138627066, 0.5847797664699382), (22, 0.2705360463675069, 0.5012158138627066, 0.5817665703595425), (22, 0.2705360463675069, 0.5012158138627066, 0.4877632459124836), (22, 0.2705360463675069, 0.5012158138627066, 0.5834005816966644), (22, 0.2705360463675069, 0.5012158138627066, 0.5545105972726183), (22, 0.2705360463675069, 0.5012158138627066, 0.44740902002007393)]]

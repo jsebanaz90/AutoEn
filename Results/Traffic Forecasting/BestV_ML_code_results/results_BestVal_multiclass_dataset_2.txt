@@ -1,0 +1,83 @@
+[WARNING] [2020-06-06 19:12:07,875:EnsembleBuilder(1):eb552bcf9b5bc35f842ad7b3c58052d6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-06 19:12:07,885:EnsembleBuilder(1):eb552bcf9b5bc35f842ad7b3c58052d6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-06 19:12:09,889:EnsembleBuilder(1):eb552bcf9b5bc35f842ad7b3c58052d6] No models better than random - using Dummy Score!
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+this pipe failed in test set
+#########################
+Best pipelines in dataset2
+[(102, 0.3053404501052201, 0.3912443097957033, 0.37486707540345837), (102, 0.3053404501052201, 0.3912443097957033, 0.342518394035583), (63, 0.1737806835299462, 0.3561142053144071, 0.39695265625997506), (63, 0.1737806835299462, 0.3561142053144071, 0.34577711465116023), (63, 0.17261628636388887, 0.3480740808993081, 0.3144159502275464), (63, 0.17261628636388887, 0.3480740808993081, 0.3971255289965087), (77, 0.10009252833119107, 0.3474537242696147, 0.3445553485803065), (77, 0.10009252833119107, 0.3474537242696147, 0.4285960385843661), (77, 0.10009252833119107, 0.3474537242696147, 0.39136938550425854), (77, 0.10009252833119107, 0.3474537242696147, 0.37548848365730036)]
+[(37013.11127948761, 'dataset2')]
+[[(102, 0.3053404501052201, 0.3912443097957033, 0.37486707540345837), (102, 0.3053404501052201, 0.3912443097957033, 0.342518394035583), (63, 0.1737806835299462, 0.3561142053144071, 0.39695265625997506), (63, 0.1737806835299462, 0.3561142053144071, 0.34577711465116023), (63, 0.17261628636388887, 0.3480740808993081, 0.3144159502275464), (63, 0.17261628636388887, 0.3480740808993081, 0.3971255289965087), (77, 0.10009252833119107, 0.3474537242696147, 0.3445553485803065), (77, 0.10009252833119107, 0.3474537242696147, 0.4285960385843661), (77, 0.10009252833119107, 0.3474537242696147, 0.39136938550425854), (77, 0.10009252833119107, 0.3474537242696147, 0.37548848365730036)]]

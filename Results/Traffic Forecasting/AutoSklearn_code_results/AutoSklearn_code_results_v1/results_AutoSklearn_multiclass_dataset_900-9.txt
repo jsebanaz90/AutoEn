@@ -1,0 +1,19 @@
+[WARNING] [2020-06-05 01:20:03,260:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:03,277:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:05,281:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:07,284:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:09,287:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:11,291:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:13,294:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:15,297:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:17,300:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:19,304:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:21,307:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:23,310:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:25,313:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:27,317:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:29,320:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:31,323:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:33,326:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+[WARNING] [2020-06-05 01:20:35,330:EnsembleBuilder(1):1e6a0fb82ef100acf270842c762408c6] No models better than random - using Dummy Score!
+Log_loss score 0.1743628849730921

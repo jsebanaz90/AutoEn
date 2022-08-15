@@ -1,0 +1,9 @@
+[WARNING] [2020-06-07 13:57:21,875:EnsembleBuilder(1):158cf453b52c8f5a4088f614009412aa] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 13:57:21,887:EnsembleBuilder(1):158cf453b52c8f5a4088f614009412aa] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 13:57:23,891:EnsembleBuilder(1):158cf453b52c8f5a4088f614009412aa] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 13:57:25,894:EnsembleBuilder(1):158cf453b52c8f5a4088f614009412aa] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 13:57:27,898:EnsembleBuilder(1):158cf453b52c8f5a4088f614009412aa] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 13:57:29,901:EnsembleBuilder(1):158cf453b52c8f5a4088f614009412aa] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 13:57:31,904:EnsembleBuilder(1):158cf453b52c8f5a4088f614009412aa] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 14:35:19,802:EnsembleBuilder(1):158cf453b52c8f5a4088f614009412aa] Memory Exception -- restart with less ensemle_nbest: 25
+Log_loss score 0.5025149436016143

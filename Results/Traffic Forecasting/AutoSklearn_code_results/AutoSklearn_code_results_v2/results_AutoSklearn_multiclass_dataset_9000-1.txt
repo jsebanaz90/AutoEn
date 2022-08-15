@@ -1,0 +1,15 @@
+[WARNING] [2020-06-07 11:25:38,596:EnsembleBuilder(1):7b01c4e06418bf0b0ac1134dd087d02a] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 11:25:38,614:EnsembleBuilder(1):7b01c4e06418bf0b0ac1134dd087d02a] Memory Exception -- restart with less ensemle_nbest: 25
+[WARNING] [2020-06-07 11:25:38,641:EnsembleBuilder(1):7b01c4e06418bf0b0ac1134dd087d02a] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 11:25:38,667:EnsembleBuilder(1):7b01c4e06418bf0b0ac1134dd087d02a] Memory Exception -- restart with less ensemle_nbest: 12
+[WARNING] [2020-06-07 11:25:38,696:EnsembleBuilder(1):7b01c4e06418bf0b0ac1134dd087d02a] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 11:25:38,722:EnsembleBuilder(1):7b01c4e06418bf0b0ac1134dd087d02a] Memory Exception -- restart with less ensemle_nbest: 6
+[WARNING] [2020-06-07 11:25:38,751:EnsembleBuilder(1):7b01c4e06418bf0b0ac1134dd087d02a] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 11:25:38,777:EnsembleBuilder(1):7b01c4e06418bf0b0ac1134dd087d02a] Memory Exception -- restart with less ensemle_nbest: 3
+[WARNING] [2020-06-07 11:25:38,806:EnsembleBuilder(1):7b01c4e06418bf0b0ac1134dd087d02a] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 11:25:38,831:EnsembleBuilder(1):7b01c4e06418bf0b0ac1134dd087d02a] Memory Exception -- restart with less ensemle_nbest: 1
+[WARNING] [2020-06-07 11:25:38,859:EnsembleBuilder(1):7b01c4e06418bf0b0ac1134dd087d02a] No models better than random - using Dummy Score!
+[CRITICAL] [2020-06-07 11:25:38,885:EnsembleBuilder(1):7b01c4e06418bf0b0ac1134dd087d02a] Memory Exception -- Unable to escape from memory exception
+[WARNING] [2020-06-07 12:31:16,176:smac.intensification.intensification.Intensifier] Challenger was the same as the current incumbent; Skipping challenger
+[WARNING] [2020-06-07 12:31:16,176:smac.intensification.intensification.Intensifier] Challenger was the same as the current incumbent; Skipping challenger
+Log_loss score 0.22252221471111147

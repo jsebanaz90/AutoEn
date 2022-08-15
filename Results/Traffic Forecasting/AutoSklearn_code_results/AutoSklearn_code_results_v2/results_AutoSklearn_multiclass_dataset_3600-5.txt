@@ -1,0 +1,15 @@
+[WARNING] [2020-06-07 08:20:11,665:EnsembleBuilder(1):e9809fd72451ecc5b7b798c042d0ffdc] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 08:20:11,692:EnsembleBuilder(1):e9809fd72451ecc5b7b798c042d0ffdc] Memory Exception -- restart with less ensemle_nbest: 25
+[WARNING] [2020-06-07 08:20:11,720:EnsembleBuilder(1):e9809fd72451ecc5b7b798c042d0ffdc] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 08:20:11,747:EnsembleBuilder(1):e9809fd72451ecc5b7b798c042d0ffdc] Memory Exception -- restart with less ensemle_nbest: 12
+[WARNING] [2020-06-07 08:20:11,776:EnsembleBuilder(1):e9809fd72451ecc5b7b798c042d0ffdc] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 08:20:11,802:EnsembleBuilder(1):e9809fd72451ecc5b7b798c042d0ffdc] Memory Exception -- restart with less ensemle_nbest: 6
+[WARNING] [2020-06-07 08:20:11,831:EnsembleBuilder(1):e9809fd72451ecc5b7b798c042d0ffdc] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 08:20:11,858:EnsembleBuilder(1):e9809fd72451ecc5b7b798c042d0ffdc] Memory Exception -- restart with less ensemle_nbest: 3
+[WARNING] [2020-06-07 08:20:11,887:EnsembleBuilder(1):e9809fd72451ecc5b7b798c042d0ffdc] No models better than random - using Dummy Score!
+[WARNING] [2020-06-07 08:20:11,914:EnsembleBuilder(1):e9809fd72451ecc5b7b798c042d0ffdc] Memory Exception -- restart with less ensemle_nbest: 1
+[WARNING] [2020-06-07 08:20:11,943:EnsembleBuilder(1):e9809fd72451ecc5b7b798c042d0ffdc] No models better than random - using Dummy Score!
+[CRITICAL] [2020-06-07 08:20:11,969:EnsembleBuilder(1):e9809fd72451ecc5b7b798c042d0ffdc] Memory Exception -- Unable to escape from memory exception
+[WARNING] [2020-06-07 09:11:53,361:smac.intensification.intensification.Intensifier] Challenger was the same as the current incumbent; Skipping challenger
+[WARNING] [2020-06-07 09:11:53,361:smac.intensification.intensification.Intensifier] Challenger was the same as the current incumbent; Skipping challenger
+Log_loss score 0.4535170390009004
