@@ -337,7 +337,7 @@ def main(dataset_name):
 		###### 1 - código para ejecutar auto-sklearn y extraer sus 121 pipelines 
 		missing_values = ["n/a", "na", "--", "?"]
 		###### cambiar dirección dependiendo de donde esté el dataset
-		df = pd.read_csv('{}.csv'.format(dataset), na_values=missing_values)
+		df = pd.read_csv('/home/amasegosa/binary_classification_datasets/{}.csv'.format(dataset), na_values = missing_values)
 		x_cols = [c for c in df.columns if c != 'class']
 		X = df[x_cols]
 		y = df['class']

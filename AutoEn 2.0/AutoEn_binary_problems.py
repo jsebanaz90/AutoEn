@@ -148,10 +148,10 @@ def caruana_ensemble(list_of_pipelines,X,y,dataset):
                 ####### train and test pipelines in train and validation sets
             else:                      
                 predictions_train = classifier.predict_proba(X_train)
-                result_train = log_loss(y_train,predictions_train)
+                result_train = roc_auc_score(y_train,predictions_train[:,1])
 
                 predictions_validation = classifier.predict_proba(X_val)
-                result_val = log_loss(y_val,predictions_validation)  
+                result_val = roc_auc_score(y_val,predictions_validation[:,1])  
                        
                 clfs_and_all_pred_val.append((counter_, classifier, result_val, predictions_validation))             
             
@@ -168,7 +168,7 @@ def caruana_ensemble(list_of_pipelines,X,y,dataset):
         final_ensemble = []
         
         #### extract the best pipeline in the validation set
-        best_val = min(clfs_and_all_pred_val, key = lambda x:x[2])     
+        best_val = max(clfs_and_all_pred_val, key = lambda x:x[2])     
 
         #### extract the best pipeline in validation, its performance in validation, and its raw predictions in validation
         final_pipe_counter, best_classifier_in_validation, best_classifier_perfm_val, predictions_best_classifier_in_y_val = best_val
@@ -183,7 +183,7 @@ def caruana_ensemble(list_of_pipelines,X,y,dataset):
         one_item_ensemble_prediction_y_val = 0    
         for prediction in best_prediction_in_validation:
             one_item_ensemble_prediction_y_val += prediction         
-        max_perfm_metric = log_loss(y_val, one_item_ensemble_prediction_y_val)    
+        max_perfm_metric = roc_auc_score(y_val, one_item_ensemble_prediction_y_val[:,1])    
         print("Initial performance:", max_perfm_metric)
 
         final_ensemble = initial_ensemble_in_val ### variable to store the final ensemble (at the begininng it only has one item: BestVal)
@@ -211,11 +211,11 @@ def caruana_ensemble(list_of_pipelines,X,y,dataset):
                 final_prediction = 0        
                 for prediction in temporal_predictions:
                     final_prediction += prediction/size_ensemble_temporal
-                temporal_perfm_metric = log_loss(y_val, final_prediction)
+                temporal_perfm_metric = roc_auc_score(y_val, final_prediction[:,1])
 
                 results_temporal_ensembles.append((temporal_perfm_metric,temporal_ensemble,temporal_predictions))
 
-            maxVal_in_temporal_ensembles = min(results_temporal_ensembles, key = lambda x:x[0]) 
+            maxVal_in_temporal_ensembles = max(results_temporal_ensembles, key = lambda x:x[0]) 
             candidate_ensemble_perfm, candidate_ensemble, candidate_ensemble_predictions = maxVal_in_temporal_ensembles
 
             #if candidate_ensemble_perfm > max_perfm_metric: 
@@ -294,7 +294,7 @@ def caruana_ensemble(list_of_pipelines,X,y,dataset):
         
         for pred_t in classifiers_predictions_in_test:
             final_prediction_in_test += pred_t/size_ensemble_final 
-        result_in_test = log_loss(y_test, final_prediction_in_test)
+        result_in_test = roc_auc_score(y_test, final_prediction_in_test[:,1])
 
         ensemble_results_in_test.append(result_in_test)
         
@@ -334,8 +334,10 @@ def main(dataset_name):
 		list_of_times = []
     
 	#try:
+		###### 1 - código para ejecutar auto-sklearn y extraer sus 121 pipelines 
 		missing_values = ["n/a", "na", "--", "?"]
-		df = pd.read_csv('{}.csv'.format(dataset), na_values = missing_values)
+		###### cambiar dirección dependiendo de donde esté el dataset
+		df = pd.read_csv('{}.csv'.format(dataset), na_values=missing_values)
 		x_cols = [c for c in df.columns if c != 'class']
 		X = df[x_cols]
 		y = df['class']
@@ -343,23 +345,28 @@ def main(dataset_name):
 		XX = pd.get_dummies(X, prefix_sep='_', drop_first=True)
 
 
+		###### repeticiones
 		for repetition in range(1,2):
 
 			X_train, X_test, y_train, y_test = sklearn.model_selection.train_test_split(XX, y, random_state=1)
 
+			###### 1 - inicializar auto-sklearn después de haber cargado los datos
+			###### 1 - ejecutar auto-sklearn con muy poco tiempo para (solo) cargar todos los pipelines almacenados en su componente de meta-learning (121)
 			automl = autosklearn.classification.AutoSklearnClassifier(
 			time_left_for_this_task=60,
 			per_run_time_limit=30,
 			ml_memory_limit = 500000,
 			delete_tmp_folder_after_terminate=True,
-			initial_configurations_via_metalearning=121)
+			initial_configurations_via_metalearning=121) 
 
 			automl.fit(X_train, y_train)
 
+			###### 2- método implementando para seleccionar los 121 pipelines
 			MetalearningSuggestions = automl.MetalearningSuggestions_extractor()
 
 			suggestions = []
 
+			###### 3 - tomar cada pipeline y convertirlo en un diccionario que luego se transforma en un objeto pipeline de sklearn
 			for i in MetalearningSuggestions:
 				pipeline = i.get_dictionary()
 				suggestions.append(pipeline)
@@ -731,7 +738,7 @@ def main(dataset_name):
        
 
 			missing_values = ["n/a", "na", "--", "?"]
-			df = pd.read_csv('{}.csv'.format(dataset), na_values = missing_values)
+			df = pd.read_csv('/home/amasegosa/binary_classification_datasets/{}.csv'.format(dataset), na_values = missing_values)
 			x_cols = [c for c in df.columns if c != 'class']
 			x = df[x_cols]
 			y = df['class']
