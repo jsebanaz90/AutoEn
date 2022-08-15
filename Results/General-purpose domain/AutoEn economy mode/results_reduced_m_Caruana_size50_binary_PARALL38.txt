@@ -1,0 +1,727 @@
+[WARNING] [2020-05-16 05:52:21,647:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:21,663:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:23,667:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:25,670:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:27,673:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:29,677:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:31,680:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:33,684:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:35,687:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:37,690:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:39,694:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:41,697:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:43,700:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:45,704:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:47,707:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:49,711:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:51,714:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:53,718:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:55,722:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:57,725:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:52:59,729:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:53:01,732:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:53:03,736:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:53:05,740:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:53:07,743:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:53:09,747:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:53:11,751:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+[WARNING] [2020-05-16 05:53:13,755:EnsembleBuilder(1):4f3335d5fc4c0a43f170257a2672a876] No models better than random - using Dummy Score!
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+pipes_validated:  65
+fold in progress: 1
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+--Initial len of small ensemble:  48
+--Final len of small ensemble:  42
+Initial performance: 0.795711386691211
+ensemble lenght:  50
+Final performance: 0.80258019863618
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 2
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+--Initial len of small ensemble:  47
+--Final len of small ensemble:  43
+Initial performance: 0.7970089392465183
+ensemble lenght:  50
+Final performance: 0.8065144643048558
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 3
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+--Initial len of small ensemble:  47
+--Final len of small ensemble:  43
+Initial performance: 0.7947969318172449
+ensemble lenght:  50
+Final performance: 0.8051588769923398
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 4
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+--Initial len of small ensemble:  48
+--Final len of small ensemble:  42
+Initial performance: 0.7933385967660809
+ensemble lenght:  50
+Final performance: 0.802505009193829
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 5
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+--Initial len of small ensemble:  48
+--Final len of small ensemble:  43
+Initial performance: 0.7953609170535222
+ensemble lenght:  50
+Final performance: 0.8057282218598745
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 6
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+--Initial len of small ensemble:  48
+--Final len of small ensemble:  43
+Initial performance: 0.7942045379585576
+ensemble lenght:  50
+Final performance: 0.8046774249239346
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 7
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+--Initial len of small ensemble:  47
+--Final len of small ensemble:  43
+Initial performance: 0.7970095963166965
+ensemble lenght:  50
+Final performance: 0.8068296647344508
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 8
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+--Initial len of small ensemble:  47
+--Final len of small ensemble:  42
+Initial performance: 0.7954516730210385
+ensemble lenght:  50
+Final performance: 0.8052817430167534
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 9
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+--Initial len of small ensemble:  48
+--Final len of small ensemble:  43
+Initial performance: 0.7990855944770177
+ensemble lenght:  50
+Final performance: 0.8085288769988652
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 10
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+This pipe did not pass the pynisher of 10%
+--Initial len of small ensemble:  47
+--Final len of small ensemble:  42
+Initial performance: 0.8001140691331758
+ensemble lenght:  50
+Final performance: 0.8098061967385436
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+#########################
+ensemble_results_in_test38
+[0.8073489726580378, 0.8101604986668132, 0.8102335757229588, 0.8100903304273457, 0.8084968558379078, 0.8033874932970377, 0.8010374595307213, 0.8018518400995625, 0.8111470721889389, 0.8029805098733241]
+0.8066734608302648
+#########################
+ensemble_results_in_validation38
+[0.80258019863618, 0.8065144643048558, 0.8051588769923398, 0.802505009193829, 0.8057282218598745, 0.8046774249239346, 0.8068296647344508, 0.8052817430167534, 0.8085288769988652, 0.8098061967385436]
+0.8057610677399627
+#########################
+times_all_folds:
+[(974.0249998569489, 13031.48834657669, 26.861207246780396, 1179.8502352237701), (983.8857362270355, 12461.682104349136, 28.188944339752197, 1317.7790191173553), (1021.014502286911, 12472.715452671051, 28.26111912727356, 1207.1385345458984), (984.696026802063, 13096.030833244324, 28.510332345962524, 1546.065010547638), (990.9743804931641, 13020.368109941483, 29.318604230880737, 2508.440209388733), (990.7770185470581, 12966.749012231827, 28.78627324104309, 1557.4126839637756), (998.7566924095154, 12610.905912399292, 28.809625148773193, 1768.3682787418365), (999.9132828712463, 12697.97996354103, 29.211585760116577, 1303.6337912082672), (1030.3207218647003, 13066.737464904785, 28.768040657043457, 1107.4167037010193), (1005.7934911251068, 12690.509173631668, 27.664871215820312, 1429.805228471756)]
+#########################
+total_time_caruana_ensemble_function:  [153307.18628811836]
+avg x fold t0:  998.0156852483749
+avg x fold t1:  12811.516637349128
+avg x fold t2:  28.438060331344605
+avg x fold t3:  1492.590969491005
+time_building_validate_pipelines:  13.916630744934082
+Total time:  [(153321.16492271423, 'dataset38')]

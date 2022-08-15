@@ -1,0 +1,491 @@
+[WARNING] [2020-05-12 17:00:03,969:EnsembleBuilder(1):828fa7cf24a4202d3c29fc1fbc4b82b7] No models better than random - using Dummy Score!
+[WARNING] [2020-05-12 17:00:03,978:EnsembleBuilder(1):828fa7cf24a4202d3c29fc1fbc4b82b7] No models better than random - using Dummy Score!
+Info about KBEST returned by method def kBestSuggestions() in kND.py:
+[('75213', 0.16611257633901338, '54'), ('75143', 0.5063053214415277, '113'), ('261', 0.8984925308573564, '14'), ('75227', 0.9025749822352505, '56'), ('75099', 0.9037390169800942, '104'), ('75226', 1.081617164442704, '108'), ('75233', 1.1287128596528433, '32'), ('75179', 1.1425345345811184, '53'), ('75124', 1.1675451766145484, '17'), ('75092', 1.2704656793226148, '122'), ('75232', 1.2869319259802843, '44'), ('251', 1.304320567186616, '111'), ('75093', 1.3215932767331133, '25'), ('75222', 1.3442640556766925, '96'), ('75239', 1.3863750036042681, '8'), ('75139', 1.454754209722406, '69'), ('75174', 1.4592989612176925, '23'), ('75182', 1.5223715434386231, '115'), ('75129', 1.5306506399975894, '5'), ('75196', 1.5754878869614546, '34'), ('75112', 1.5916233056183748, '116'), ('75184', 1.6397736563363385, '57'), ('75159', 1.6501674209261399, '97'), ('75095', 1.6540732700875416, '21'), ('75108', 1.6829179006735822, '41'), ('75157', 1.7269881794152508, '84'), ('75141', 1.7421403885187368, '127'), ('2123', 1.7871523564512806, '55'), ('75225', 1.8037020326388749, '126'), ('75185', 1.8188272944553872, '90'), ('253', 1.8210215521457735, '13'), ('273', 1.8225013592028692, '22'), ('75150', 1.8243306616299995, '49'), ('2117', 1.9238775909916561, '3'), ('75175', 1.9658724615115841, '98'), ('75148', 2.01159106641052, '48'), ('75215', 2.0532601567860245, '28'), ('75187', 2.0556356227373436, '85'), ('75163', 2.0756267647844937, '91'), ('75210', 2.1241106042814173, '117'), ('75176', 2.1250864591257024, '18'), ('75192', 2.126638007947223, '43'), ('75173', 2.144965352951311, '45'), ('75234', 2.1523817221110013, '68'), ('75195', 2.156936986716715, '77'), ('75097', 2.1868386731591007, '129'), ('275', 2.187871785411015, '120'), ('75153', 2.2195768978696417, '24'), ('75166', 2.23311456250369, '62'), ('75146', 2.268096268886891, '82'), ('75123', 2.2865610361428983, '40'), ('75113', 2.293174981336252, '72'), ('260', 2.3030892102208735, '38'), ('75100', 2.3106190224863425, '50'), ('75171', 2.3365601868996344, '78'), ('233', 2.3458384588013637, '106'), ('2350', 2.404212558115265, '86'), ('75133', 2.4095820424299017, '64'), ('75128', 2.439900481715557, '79'), ('75103', 2.4489848778569128, '19'), ('75237', 2.4683016293102273, '76'), ('75235', 2.480340498564284, '107'), ('254', 2.4973829924455604, '100'), ('288', 2.506513098464299, '121'), ('75142', 2.8120740901141987, '58'), ('75161', 2.813334078242841, '112'), ('75101', 2.853746828254, '42'), ('75191', 2.8930633605481058, '36'), ('75243', 3.0412750429252977, '6'), ('75249', 3.044721142735371, '124'), ('75221', 3.056966914723457, '10'), ('75109', 3.08841522564546, '99'), ('2120', 3.1289944449459295, '1'), ('3043', 3.160303245864563, '123'), ('75177', 3.160303245864563, '92'), ('75189', 3.199541536268674, '93'), ('75156', 3.3743751709155, '4'), ('266', 3.378868525488895, '47'), ('75248', 3.393756997698962, '105'), ('75217', 3.6092113587877255, '37'), ('248', 3.6144523861926614, '35'), ('75244', 3.708530433694711, '94'), ('75240', 3.775461295879925, '15'), ('75114', 3.8746428258126464, '114'), ('252', 4.0050057744761345, '70'), ('75127', 4.05196260669656, '110'), ('262', 4.079220302820351, '67'), ('75125', 4.130207360810095, '89'), ('246', 4.159856794796101, '74'), ('244', 4.189927743038749, '88'), ('75116', 4.217343663113398, '83'), ('75219', 4.228010775166093, '95'), ('258', 4.335389719824393, '11'), ('75212', 4.38675254882123, '103'), ('242', 4.42829682321869, '87'), ('75126', 4.480005732891545, '125'), ('75236', 4.509406196704338, '52'), ('75134', 4.630797500424297, '65'), ('2122', 4.65009094353219, '60'), ('75110', 4.65009094353219, '7'), ('75223', 4.65058903389774, '9'), ('75115', 4.800259712714048, '39'), ('75117', 4.810666847301851, '71'), ('75090', 4.976684125993298, '119'), ('75197', 4.989453082554029, '46'), ('75119', 5.0106126408907965, '26'), ('75121', 5.0444765707267285, '12'), ('236', 5.069510598951363, '59'), ('75120', 5.080471282875789, '16'), ('75172', 5.2186114746969, '29'), ('75207', 5.276642965815097, '20'), ('75181', 5.335282880998262, '63'), ('75178', 5.342237996039454, '51'), ('75096', 5.462119696004409, '80'), ('75169', 5.520487342438294, '30'), ('75202', 5.5956187148691985, '31'), ('75250', 5.601075903463917, '81'), ('75098', 5.727870993438451, '73'), ('75201', 5.871449922574953, '27'), ('75205', 5.946727076910119, '118'), ('75203', 5.993495699108064, '75'), ('75231', 6.1406811656963525, '33'), ('75188', 6.546548810856496, '61'), ('75193', 6.840585350608688, '2'), ('75106', 8.422814624414837, '102'), ('75107', 8.430160148281118, '128'), ('75198', 8.595643276359649, '66'), ('75105', 8.745580977503254, '101'), ('75132', 11.158855511772376, '109')]
+3.300631995025473 1.9170993166399535
+0.16611257633901338
+1.6829179006735822
+11.158855511772376
+[WARNING] [2020-05-12 17:00:05,980:EnsembleBuilder(1):828fa7cf24a4202d3c29fc1fbc4b82b7] No models better than random - using Dummy Score!
+1
+['/tmp/autosklearn_tmp_10521_4224/.auto-sklearn/ensembles/1.0000000000.ensemble', '/tmp/autosklearn_tmp_10521_4224/.auto-sklearn/ensembles/1.0000000001.ensemble', '/tmp/autosklearn_tmp_10521_4224/.auto-sklearn/ensembles/1.0000000002.ensemble', '/tmp/autosklearn_tmp_10521_4224/.auto-sklearn/ensembles/1.0000000003.ensemble', '/tmp/autosklearn_tmp_10521_4224/.auto-sklearn/ensembles/1.0000000004.ensemble']
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+something went wrong
+pipes_validated:  106
+fold in progress: 1
+Initial performance: 0.7246662621359223
+ensemble lenght:  50
+Final performance: 0.7460558252427185
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 2
+Initial performance: 0.7892900485436893
+ensemble lenght:  50
+Final performance: 0.8323725728155341
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 3
+Initial performance: 0.8244842233009708
+ensemble lenght:  50
+Final performance: 0.8297936893203883
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 4
+Initial performance: 0.7260315533980582
+ensemble lenght:  50
+Final performance: 0.8094660194174756
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 5
+Initial performance: 0.7498483009708738
+ensemble lenght:  50
+Final performance: 0.7864077669902912
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 6
+Initial performance: 0.7956614077669902
+ensemble lenght:  50
+Final performance: 0.8229672330097088
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 7
+Initial performance: 0.8018810679611651
+ensemble lenght:  50
+Final performance: 0.8340412621359223
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 8
+Initial performance: 0.8093143203883496
+ensemble lenght:  50
+Final performance: 0.8372269417475727
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 9
+Initial performance: 0.8393507281553397
+ensemble lenght:  50
+Final performance: 0.8504247572815534
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+fold in progress: 10
+Initial performance: 0.8156856796116505
+ensemble lenght:  50
+Final performance: 0.8402609223300971
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+YES, repeated pipeline for RE-TRAINING
+#########################
+ensemble_results_in_test24
+[0.6978557504873295, 0.6754385964912281, 0.7417153996101364, 0.7305068226120858, 0.689083820662768, 0.8557504873294347, 0.6807992202729045, 0.6062378167641327, 0.869969040247678, 0.7342621259029928]
+0.729161908038069
+#########################
+ensemble_results_in_validation24
+[0.8313106796116505, 0.8577063106796116, 0.7917172330097088, 0.7528822815533981, 0.8129550970873787, 0.8062803398058253, 0.8320691747572816, 0.8229672330097086, 0.8710558252427184, 0.7760922330097088]
+0.815503640776699
+#########################
+times_all_folds:
+[(42.221877336502075, 8.987200498580933, 4.8488781452178955), (44.20318937301636, 12.036438226699829, 4.766659259796143), (39.4809091091156, 7.918919801712036, 2.9556450843811035), (41.33701133728027, 10.573157548904419, 7.613497972488403), (43.98592400550842, 7.82267951965332, 4.62079644203186), (45.990256547927856, 11.343845129013062, 4.520177841186523), (42.21729254722595, 7.439210653305054, 2.665090322494507), (39.48707127571106, 8.51056694984436, 1.4406750202178955), (38.52131986618042, 7.2594640254974365, 4.3818864822387695), (40.249913930892944, 8.582587242126465, 1.6743583679199219)]
+#########################
+total_time_caruana_ensemble_function:  [547.74169754982]
+avg x fold t1:  41.769476532936096
+avg x fold t2:  9.047406959533692
+avg x fold t3:  3.948766493797302
+time_building_validate_pipelines:  16.823768615722656
+Total time:  [(564.6267697811127, 'dataset24')]
