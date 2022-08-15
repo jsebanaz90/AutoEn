@@ -5,5 +5,5 @@ We introduce a simple strategy for AutoML that does not require a pipeline optim
 ## General overview of AutoEn:
 ![Alt text](https://github.com/jsebanaz90/AutoEn/blob/main/Supplementary%20documents/AutoEn_general_workflow.PNG)
 
-## Super Learner with Greedy k-Fold:
+## Detailed workflow of AutoEn:
 ![Alt text](https://github.com/jsebanaz90/AutoEn/blob/main/Supplementary%20documents/AutoEn_detailed_workflow.PNG)
